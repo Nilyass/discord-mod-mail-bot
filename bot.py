@@ -1,4 +1,4 @@
-GUILD_ID = 0 # 435472246987816991
+GUILD_ID = 0 # 574200848134176768
 
 import discord
 from discord.ext import commands
